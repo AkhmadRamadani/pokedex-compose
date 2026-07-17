@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="pokemon_list_title">Pokédex</string>
+    <string name="error_generic">Something went wrong. Pull to retry.</string>
+    <string name="error_network">No internet connection.</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading Pokémon…</string>
+</resources>
